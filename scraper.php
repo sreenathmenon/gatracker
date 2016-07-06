@@ -413,7 +413,7 @@ function displayData($gDtls) {
     //Initializing the values
     $num  = 0;
     $html = '
-    <div class="results-table">
+    <div class="table-responsive results-table">
     <table class="table table-striped">
         <thead>
             <tr>
